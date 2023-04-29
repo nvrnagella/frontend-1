@@ -1,5 +1,6 @@
 @Library('roboshop') _
 
-env.component = "nginx"
+env.component = "frontend"
+env.app_lang = "nginx"
 
 ci()
