@@ -2,4 +2,5 @@
 
 env.component = "frontend"
 env.app_lang = "nginx"
+//hello
 ci()
